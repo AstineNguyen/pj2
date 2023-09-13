@@ -734,6 +734,11 @@ h1, h2, h3, h4, h5, h6, figure {
   height: 150px;
 }
 
+.social {
+  font-size: 15px;
+  text-align: center;
+} 
+
 @media screen and (max-width: 768px) {
   #map {
     height: 200px;
@@ -1364,7 +1369,7 @@ blockquote p > cite {
 }
 
 .row-pb-md {
-  padding-bottom: 4em !important;
+  /* padding-bottom: 4em !important; */
 }
 
 .row-pb-sm {
