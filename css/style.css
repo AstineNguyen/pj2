@@ -1571,9 +1571,8 @@ blockquote p > cite {
 }
 
 .product_img {
-  float: left;
-  font-size: 34px.gtco-heading h2;
-  color: #cccccc;
+  height: 34px;
+  width: 34px;
 }
 .feature-left > .icon {
   float: left;
